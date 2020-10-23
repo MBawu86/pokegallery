@@ -15,7 +15,7 @@
 
 ## Getting Started
 
-[Click Here] (#) to see the deployed app!
+[Click Here] (https://mbawu86.github.io/pokegallery/) to see the deployed app!
 
 ## Obstacles
 -
